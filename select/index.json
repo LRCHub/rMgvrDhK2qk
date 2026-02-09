@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "STARRY PLACE",
+  "base_artist": "イルミネーションスターズ",
+  "createdAt": "2026-02-09T04:06:47.431446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STARRY PLACE",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/01_STARRY_PLACE_イルミネーションスターズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STARRY PLACE",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_STARRY_PLACE_イルミネーションスターズ.txt"
+    }
+  ]
+}
